@@ -13,7 +13,7 @@ To install Friend Finder:
 
 1 - Clone the repository and store it on your computer. Open it with the code editor of your choice. 
 
-2 - Make sure you have Node installed, then run "npm install" or "npm i" to install the app's dependencies.
+2 - In your terminal, run "npm install" or "npm i" to install the app's dependencies.
 
 3 - Set the PORT environment (your choice).
 
