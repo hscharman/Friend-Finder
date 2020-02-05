@@ -12,8 +12,11 @@ You can view Friend Finder on Heroku. Check it out here!
 To install Friend Finder: 
 
 1 - Clone the repository and store it on your computer. Open it with the code editor of your choice. 
+
 2 - Make sure you have Node installed, then run "npm install" or "npm i" to install the app's dependencies.
-2 - Set the PORT environment (your choice).
-3 - Run Friend Finder using "node server.js". 
+
+3 - Set the PORT environment (your choice).
+
+4 - Run Friend Finder using "node server.js". 
 
 You can then access the app in your browser at the PORT location you specified. 
