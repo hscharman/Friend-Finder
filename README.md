@@ -6,7 +6,7 @@ Friend Finder is an application that finds a friend match for the user based on 
 The application uses a Node.js and Express server on the back-end and simple Bootstrap CSS on the front-end. The JavaScript plugin Chosen is also utilized to make the select boxes on the survey questions more user-friendly. 
 
 ## To View
-You can view Friend Finder on Heroku. Check it out here!
+You can view Friend Finder on Heroku. Check it out here: https://enigmatic-escarpment-63337.herokuapp.com/ . 
 
 ## To Use
 To install Friend Finder: 
